@@ -4,10 +4,10 @@
 ![Aloha](https://github.com/arisupriatna14/web-design/blob/master/assets/screenshoot/Aloha.png?raw=true)
 
 ## [Lingee: Language learning platform](https://dribbble.com/shots/7052720-Linglee-Languages-learning-platform)
-![SS_1](https://raw.githubusercontent.com/arisupriatna14/web-design/master/assets/screenshoot/Screen%20Shot%202020-02-10%20at%2010.01.35_macbookpro13_front.png)
+![SS_1](https://github.com/arisupriatna14/web-design/blob/master/assets/screenshoot/Linglee.png?raw=true)
 
 ## [Flat Design](https://assets.materialup.com/uploads/a400c631-188b-4845-9ae2-7e85269411a4/preview.png)
-![SS_1](https://raw.githubusercontent.com/arisupriatna14/web-design/master/assets/screenshoot/Screen%20Shot%202020-02-10%20at%2009.23.01.png)
+![SS_1](https://github.com/arisupriatna14/web-design/blob/master/assets/screenshoot/flat_design.png?raw=true)
 
 
 ## Getting Started
