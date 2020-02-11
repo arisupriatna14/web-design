@@ -1,3 +1,4 @@
+import 'package:demo_flutter_web/aloha_screen.dart';
 import 'package:demo_flutter_web/home_screen.dart';
 import 'package:demo_flutter_web/linglee_screen.dart';
 import 'package:flutter/material.dart';
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: LingleeScreen(),
+      home: AlohaScreen(),
       debugShowCheckedModeBanner: false,
     );
   }

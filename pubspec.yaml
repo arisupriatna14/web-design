@@ -46,6 +46,11 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/images/group_58.png
+    - assets/images/pablo-animal-care.png
+    - assets/images/pablo-growing-up.png
+    - assets/images/pablo-done.png
+    - assets/images/pablo-waiting.png
+    - assets/images/pablo-eco-technologies.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
