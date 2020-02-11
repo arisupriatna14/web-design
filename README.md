@@ -1,5 +1,8 @@
 # Web Design
 
+## [Aloha](https://dribbble.com/shots/6746793-Aloha)
+![Aloha](https://github.com/arisupriatna14/web-design/blob/master/assets/screenshoot/Aloha.png?raw=true)
+
 ## [Lingee: Language learning platform](https://dribbble.com/shots/7052720-Linglee-Languages-learning-platform)
 ![SS_1](https://raw.githubusercontent.com/arisupriatna14/web-design/master/assets/screenshoot/Screen%20Shot%202020-02-10%20at%2010.01.35_macbookpro13_front.png)
 
